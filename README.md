@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **a passionate project**
 
-- 💬 Ask me about **Rails, Stimulus, CSS**
+- 💬 Ask me about **Rails, Stimulus, CSS, HTML, JavaScript**
 
 - 📫 How to reach me **pierre_bride@icloud.com**
 
