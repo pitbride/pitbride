@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">A passionate full stack developer from Paris, France</h3>
 
-- 🔭 I’m currently working on Yumon.
-
-- 👯 I’m looking to collaborate on **a passionate project**
-
-- 💬 Ask me about **Rails, Stimulus, CSS, HTML, JavaScript**
+After an entrepreneurial experience in food distribution, I decided to reorient myself towards web development by joining Le Wagon Paris. I then joined Yumon, a startup in the creator economy where I contributed to the design of an innovative web application with a marketplace and a fantasy card game for content creators and their community. I gained team working skills by using the SCRUM method and working on several MVPs using frameworks such as Ruby on Rails, React.js, Next.js, NestJS, TailwindCSS and Immutable X, as well as tools such as AWS, Heroku, Swagger, Cloudflare, Sendinblue, Sentry and logz.io. Passionate about design, I participated in the design of all the pages of the web app, the landing page and the design system using Figma and Storybook. In addition to my role as a FullStack developer, I am also co-founder of Pygments Records, an association that organizes innovative and creative livestream events in Paris.
 
 - 📫 How to reach me **pierre_bride@icloud.com**
 
